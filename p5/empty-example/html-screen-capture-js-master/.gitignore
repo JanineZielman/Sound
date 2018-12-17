@@ -1,6 +1,0 @@
-*.iml
-npm-debug.log
-.idea/
-dist/
-node_modules/
-out/
